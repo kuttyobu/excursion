@@ -24,3 +24,9 @@ body{
     font-size: 16px;
     color: aquamarine;
 }
+/* FOOTER */
+.footer{
+    font-size: 21px;
+    color: gray;
+    text-align: right;
+}
